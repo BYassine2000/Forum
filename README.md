@@ -9,10 +9,10 @@ Administrateur (pour la partie admin)
 
 Modérateur
 ----------
-<b>Pseudo</b> : tomodo<br>
+<b>Pseudo</b> : yassinemodo<br>
 <b>Mot de passe</b> : Azerty123
 
 Utilisateur
 -----------
-<b>Pseudo</b> : tomuser<br>
+<b>Pseudo</b> : yassineuser<br>
 <b>Mot de passe</b> : Azerty123
